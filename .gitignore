@@ -8,8 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+<<<<<<< HEAD
 
 # Environment variable files
 .env
 
 Vector/
+=======
+.env
+>>>>>>> 4a42a3039bd93242b511d05802ee59da57c90e7a

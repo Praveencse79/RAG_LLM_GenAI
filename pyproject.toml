@@ -1,10 +1,15 @@
 [project]
+<<<<<<< HEAD
 name = "rag-tutorial"
+=======
+name = "langchain-tutorial"
+>>>>>>> 4a42a3039bd93242b511d05802ee59da57c90e7a
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+<<<<<<< HEAD
     "aiohappyeyeballs==2.6.1",
     "aiohttp==3.13.2",
     "aiosignal==1.4.0",
@@ -89,4 +94,13 @@ dependencies = [
     "wcwidth==0.2.14",
     "yarl==1.22.0",
     "zstandard==0.25.0",
+=======
+    "langchain>=1.2.0",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.6",
+    "langchain-openai>=1.1.6",
+    "load-dotenv>=0.1.0",
+    "openai>=2.14.0",
+    "wikipedia>=1.4.0",
+>>>>>>> 4a42a3039bd93242b511d05802ee59da57c90e7a
 ]
