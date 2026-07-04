@@ -25,8 +25,6 @@ What you’ll learn:
 
 ✅ …and MUCH MOREEEE 
 
-## **YOUTUBE VIDEO LINK - ** https://youtu.be/71MW5WeHdz8?si=D0_ywfQ3YlN5l5Bp
-=======
 # LangChain Tutorial
 
 Welcome to the LangChain Tutorial codebase! This repository provides a hands-on, chapter-based guide to building applications with [LangChain](https://python.langchain.com/), a powerful framework for developing language model-powered workflows and agents. The tutorial is organized into chapters, each focusing on a different aspect of LangChain, from basic LLM calls to advanced agent and database integrations.
